@@ -43,10 +43,21 @@
     height: 50vh;
 }
 .console_c {
-    padding-left: 1em;
+    position: relative;
+    padding: 1em 0 0 1em;
     border-left: 2px solid green;
     border-radius: 5px;
-    height: 95%;
+    height: 90%;
+    background-color: whitesmoke;
+}
+#try_code, #try_code img{
+    position: absolute;
+    left: 95%;
+    height: 24px;
+}
+#try_code img:hover{
+    filter: invert(38%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
+    cursor: pointer;
 }
 .c_orange{
     color: #ff8f00;
