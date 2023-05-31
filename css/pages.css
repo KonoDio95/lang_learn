@@ -53,6 +53,7 @@
     border-radius: 5px;
     height: 90%;
     background-color: whitesmoke;
+    font-family: "Source Code Pro", sans-serif;
 }
 #try_code, #try_code img{
     position: absolute;
@@ -65,6 +66,12 @@
 }
 .c_orange{
     color: #ff8f00;
+}
+.c_blue{
+    color: #0059ff;
+}
+.c_gray{
+    color: gray;
 }
 .m_code{
     margin-left: 1em;
