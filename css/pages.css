@@ -5,7 +5,9 @@
     align-content: center;
     align-items: center;
     padding: 1%;
+    color: #ffffff;
     flex-wrap: wrap;
+    min-height: 75vh;
 }
 
 .title_p1{
@@ -24,6 +26,7 @@
     text-decoration: none;
     color: white;
     background: #008b8b;
+    font-weight: 600;
     padding: 1em;
     border-radius: 10px;
     width: 25%;
@@ -35,6 +38,7 @@
 
 .p_2 {
     background-color: white;
+    box-shadow: -9px 10px 5px 0px #959595;
     color: black;
     border-radius: 10px;
     width: 45%;
