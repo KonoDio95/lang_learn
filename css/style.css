@@ -18,7 +18,8 @@ header {
     justify-content: space-between;
     height: 7.5vh;
     padding: 0.5em;
-    background-color: #373737;
+/*     background-color: #373737; */
+    background-color: #1a1a1a;
     margin-bottom: 3em;
 }
 .header_p1 {
