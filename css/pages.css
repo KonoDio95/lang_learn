@@ -35,6 +35,19 @@
 .link_p1:hover {
     background: #019e9e;
 }
+.b2{
+    background: #00af57;
+}
+.b2:hover{
+    background: #04cb67;
+}
+.b3{
+    background: #04cb9f;
+}
+.b3:hover{
+    background: #05e7b5;
+}
+
 
 .p_2 {
     background-color: white;
