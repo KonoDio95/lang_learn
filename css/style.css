@@ -78,6 +78,7 @@ header {
     color: white;
     width: 5em;
     height: 5em;
+    font-weight: bold;
 }
 .lang_learn:hover{
     transform: scale(1.1);
