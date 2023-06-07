@@ -25,7 +25,8 @@
     margin-block: 0.5em;
     text-decoration: none;
     color: white;
-    background: #008b8b;
+/*     background: #008b8b; */
+    background: #007676;
     font-weight: 600;
     padding: 1em;
     border-radius: 10px;
@@ -36,13 +37,15 @@
     background: #019e9e;
 }
 .b2{
-    background: #00af57;
+/*     background: #00af57; */
+    background: #008140;
 }
 .b2:hover{
     background: #04cb67;
 }
 .b3{
-    background: #04cb9f;
+/*     background: #04cb9f; */
+    background: #009977;
 }
 .b3:hover{
     background: #05e7b5;
